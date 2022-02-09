@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "161336239349",
+    "project_id": "one-chat-app-d1c5a",
+    "storage_bucket": "one-chat-app-d1c5a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161336239349:android:9b00429cee972c1bcd91bc",
+        "android_client_info": {
+          "package_name": "com.example.one_chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161336239349-tte727evot5dpquj922b4ackl1btlth5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN3v0Zgu6gE_lwIj7pL3BSUd-wlaN4zAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "161336239349-tte727evot5dpquj922b4ackl1btlth5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
